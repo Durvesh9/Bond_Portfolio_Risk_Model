@@ -4,7 +4,7 @@
 DB_CONFIG = {
     "dbname": "bond_project",  # Updated DB name
     "user": "postgres",
-    "password": "password",     # Updated it with your actual password
+    "password": "durvesh",     # Updated it with your actual password
     "host": "localhost",
     "port": "5432"
 }
