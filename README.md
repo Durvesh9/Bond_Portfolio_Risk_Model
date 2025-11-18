@@ -158,9 +158,9 @@ portfolio_risk_report.xlsx
 
 ### **1. Bond Price (DCF Valuation)**
 
-[
-Price = \sum_{t=1}^{N} \frac{C}{(1+r)^t} + \frac{F}{(1+r)^N}
-]
+
+### Price=t=1∑N​(1+r)tC​+(1+r)NF​
+
 
 Where:
 
@@ -173,9 +173,7 @@ Where:
 
 ### **2. DV01 — Dollar Value of a Basis Point**
 
-[
-DV01 = P_{base} - P_{yield + 1bp}
-]
+### DV01=Pbase​−Pyield+1bp​
 
 Interpretation:
 
